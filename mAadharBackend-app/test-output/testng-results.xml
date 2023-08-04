@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7871" started-at="2022-10-20T17:32:16 IST" finished-at="2022-10-20T17:32:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7871" started-at="2022-10-20T17:32:16 IST" finished-at="2022-10-20T17:32:24 IST">
+      <class name="com.mAadhar.testing.LoginServiceTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@57175e74]" name="config" is-config="true" duration-ms="3365" started-at="2022-10-20T17:32:16 IST" finished-at="2022-10-20T17:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@57175e74]" name="signInTest" duration-ms="800" started-at="2022-10-20T17:32:21 IST" finished-at="2022-10-20T17:32:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="signUpTest()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@57175e74]" name="signUpTest" duration-ms="419" started-at="2022-10-20T17:32:22 IST" finished-at="2022-10-20T17:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@57175e74]" name="afterClass" is-config="true" duration-ms="110" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mAadhar.testing.LoginServiceTest -->
+      <class name="com.mAadhar.testing.RequestServiceTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="config" is-config="true" duration-ms="1479" started-at="2022-10-20T17:32:20 IST" finished-at="2022-10-20T17:32:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="approveRequestTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="approveRequestTest" duration-ms="693" started-at="2022-10-20T17:32:23 IST" finished-at="2022-10-20T17:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- approveRequestTest -->
+        <test-method status="PASS" signature="denyRequestTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="denyRequestTest" duration-ms="226" started-at="2022-10-20T17:32:23 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- denyRequestTest -->
+        <test-method status="PASS" signature="getAllRequestsTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="getAllRequestsTest" duration-ms="129" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllRequestsTest -->
+        <test-method status="PASS" signature="storeRequestTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="storeRequestTest" duration-ms="147" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeRequestTest -->
+        <test-method status="PASS" signature="updateAdharTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="updateAdharTest" duration-ms="126" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAdharTest -->
+        <test-method status="PASS" signature="viewmyAdharTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="viewmyAdharTest" duration-ms="130" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewmyAdharTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@448ff1a8]" name="afterClass" is-config="true" duration-ms="89" started-at="2022-10-20T17:32:24 IST" finished-at="2022-10-20T17:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mAadhar.testing.RequestServiceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
